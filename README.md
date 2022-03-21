@@ -6,4 +6,4 @@ This bitsy game is meant to highlight some of the pressing issues concerning ven
 
  
 
-"Emergency Room (ER) Nurse, Lisa Deanne Doss stated in 2019, in a 10 year period, 95 percent of all the snakebites that I have seen have been the result of someone trying to kill the snake." - https://www.al.com/opinion/2019/06/snakeman-snake-bites-are-rare-unless-provoked.html#:~:text=Emergency%20Room%20(ER)%20Nurse%2C,trying%20to%20kill%20the%20snake.
+"Emergency Room (ER) Nurse, Lisa Deanne Doss stated in 2019, in a 10 year period, 95 percent of all the snakebites that I have seen have been the result of someone trying to kill the snake." - [Link](https://www.al.com/opinion/2019/06/snakeman-snake-bites-are-rare-unless-provoked.html#:~:text=Emergency%20Room%20(ER)%20Nurse%2C,trying%20to%20kill%20the%20snake.)
